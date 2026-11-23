@@ -1,4 +1,4 @@
-# ALBEDO RaidTalk Theme
+#  RaidTalk Theme
 
 Тёмная пользовательская тема ALBEDO для веб-приложения [app.raidtalk.ru](https://app.raidtalk.ru).
 
