@@ -6,6 +6,8 @@
 @author         ALBEDO
 ==/UserStyle== */
 
+@-moz-document domain("app.raidtalk.ru") {
+
 /*
  RaidTalk — экспериментальная тёмно-серая тема
  Основа: HTML-снимок страницы, присланный пользователем.
@@ -1188,4 +1190,6 @@ textarea {
         0 0 5px currentColor,
         0 0 12px currentColor,
         0 0 20px currentColor !important;
+}
+
 }
